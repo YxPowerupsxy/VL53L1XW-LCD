@@ -5,47 +5,6 @@ Watch full video details of this code https://youtu.be/Lt-Zhm_XY38
 
  Library used: http://librarymanager/All#SparkFun_VL53L1X
 
- * This Arduin sketch display distnace using VL53L1X distance sensor on LCD1602 or LCD2004 with I2C module (4 wires)
- * 
-The distance is can be selected to ba in "mm", "inches", "feet", "cm" and "meter"
-
-
- * Written by Ahmad Shamshiri on Jun 18, 2020 in Ajax, Ontario, Canada
- * in Ajax, Ontario, Canada. www.robojax.com
- * 
-
-  This video is part of Arduino Step by Step Course which starts here: https://youtu.be/-6qSrDUA5a8
-
- 
-
-If you found this tutorial helpful, please support me so I can continue creating 
-content like this. You can support me on Patreon http://robojax.com/L/?id=63
-
-or make donation using PayPal http://robojax.com/L/?id=64
-  
- * This code is "AS IS" without warranty or liability. Free to be used as long as you keep this note intact.* 
- * This code has been download from Robojax.com
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
- VL53L1X distance reading from Sparkfun https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library
-  *   Reading distance from the laser based VL53L1X
-  By: Nathan Seidle
-  Revised by: Andy England
-  SparkFun Electronics
-  Date: April 4th, 2018
-
-*/
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
