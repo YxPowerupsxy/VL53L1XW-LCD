@@ -1,9 +1,3 @@
-/* 
-*
-* Lesson 82: Using VL53L1X 400cm Laser Distance Sensor LCD with Arduino  
-Watch full video details of this code https://youtu.be/Lt-Zhm_XY38
-
- Library used: http://librarymanager/All#SparkFun_VL53L1X
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
